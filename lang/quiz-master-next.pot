@@ -1998,6 +1998,7 @@ msgstr ""
 msgid "Template For Admin Results Details"
 msgstr ""
 
+
 #: php/admin/settings-page.php:71
 msgid "These settings are applied to the entire plugin and all quizzes."
 msgstr ""
